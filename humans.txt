@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Tom Kinnear -- idea and social media campaign -- @trkinnear
+    Kyle Macquarrie -- site design/development -- @k_macquarrie
+
+# THANKS
+
+    The people of Dundee who post their photos to Twitter :)
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery
