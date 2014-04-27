@@ -1,0 +1,12 @@
+title: Dundee Sunset
+date: 2013
+description: Collating pictures of sunsets around Dundee into one place. Tweet your pictures tagged with #DundeeSunset to get involved.
+tag: web, responsive 
+content: |
+  - ![Dundee Sunset homepage](https://farm4.staticflickr.com/3733/11997655686_4a4c47e067_b.jpg)
+  - Dundee Sunset was a social media campaign initiated by [Tom Kinnear](http://socialdigital.dundee.ac.uk/~trkinnear/blog/). Inspired by the amazing sunsets we could see over the River Tay from our studio, he began encouraging people in Dundee to post their photos tagged with [#DundeeSunset](https://twitter.com/search?q=%23dundeesunset&src=typd) and it quickly took off. I put this page together in an evening to collate all the photos in one place. It was even posted on [STV's Dundee news page](http://dundee.stv.tv/34052/). Unfortunately, it doesn't show anything older than a week or two thanks to the vagaries of Twitter's API. 
+  - ![Mid page with variety of sunsets](https://farm4.staticflickr.com/3805/11997207923_f48f916194_b.jpg)
+  - ![Mid page with lots of sunsets](https://farm4.staticflickr.com/3785/11997728986_4fce9860dc_b.jpg)
+  - ![Dundee Sunset headers with different background sunsets](https://farm6.staticflickr.com/5489/11997657046_478374e94a_b.jpg)
+  - My favourite feature is the header image, which gets randomly chosen from the loaded pictures each time the page refreshes. It's a simple trick using an SVG, but really effective. The source is available [on Github](https://github.com/velvetkevorkian/sunset).
+ 
